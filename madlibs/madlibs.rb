@@ -1,4 +1,4 @@
-puts "Give me a scary animal:"
+puts "Give me a not so scary animal:"
 scary = gets.chomp
 puts "Give me a number:"
 num1 = gets.chomp
